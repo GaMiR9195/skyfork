@@ -1,7 +1,7 @@
-made with <3, by presidentanvil || https://skyvr.loadlua.xyz
+made by anvil guy idk who is this, but original skyvr sucks -> https://skyvr.loadlua.xyz
 
 ```lua
--- DO NOT RUN THIS IN VR MODE
+-- VR AVATAR CREATOR, DON'T RUN IN VR
 skyvrversion = '3.0.0'
 
 VR_Model_Customization_GUI = game:GetObjects("rbxassetid://93922799482853")[1]
